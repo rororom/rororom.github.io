@@ -23,7 +23,7 @@ title: 개롱이 # the main title
 tagline: 개롱이의 여정 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A 과연 저는 어디까지 갈까요?
+  저는 어디까지 갈까요?
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://rororom.github.io"
@@ -53,7 +53,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: 'G-NXWXJ87RQG' # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
